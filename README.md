@@ -1,8 +1,16 @@
 # 🔐 Autenticação de Pedidos
+##
 
 API desenvolvida com **FastAPI** para autenticação de usuários (com JWT) e gerenciamento de pedidos, incluindo criação, listagem, cancelamento, adição e remoção de itens, além da finalização do pedido.
 
 Ideal para sistemas de delivery, pedidos online e e-commerce.
+
+---
+## Documentação
+
+Você pode acessar e testar a API no link abaixo:
+
+🔗 [Documentação Swagger UI](https://autenticacao-de-pedidos.onrender.com/docs)
 
 ---
 
