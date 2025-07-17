@@ -28,6 +28,7 @@ class Usuario(Base):
         self.senha = senha
         self.ativo = ativo
         self.admin = admin
+        
 
 #pedidos
 class Pedido(Base):
