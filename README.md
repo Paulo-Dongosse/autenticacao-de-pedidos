@@ -27,7 +27,8 @@ Você pode acessar e testar a API no link abaixo:
 - Python  
 - FastAPI  
 - SQLite  
-- JWT para autenticação  
+- JWT para autenticação
+- uvicorn 
 
 ---
 
