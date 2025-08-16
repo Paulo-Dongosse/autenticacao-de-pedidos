@@ -2,7 +2,7 @@
 
 API desenvolvida com **FastAPI** para autenticação de usuários (com JWT) e gerenciamento de pedidos, incluindo criação, listagem, cancelamento, adição e remoção de itens, além da finalização do pedido.
 
-Ideal para sistemas de delivery, pedidos online e e-commerce.
+> Ideal para sistemas de delivery, pedidos online e e-commerce.
 
 ---
 ## Documentação
